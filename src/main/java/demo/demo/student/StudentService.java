@@ -18,6 +18,13 @@ public class StudentService {
 				"luis.mendez.l@utec.edu.pe",
 				LocalDate.of(2003, Month.AUGUST, 6),
 				21
+			),
+			new Student(
+				2L,
+				"Talia",
+				"talia.mendez@gmail.com",
+				LocalDate.of(2005, Month.SEPTEMBER, 1),
+				19
 			)
 		);
 	}
